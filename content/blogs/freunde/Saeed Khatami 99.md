@@ -8,7 +8,7 @@ tags:
   - bester-Freund
 ---
 > [!status] Erreichbarkeit
-> - Zurzeit erreichbar
+> - Zurzeit erreichbar 🟢
 
 > [!INFO] Biografie: **Saeed Khatami 99**
 > - Der Bruder tauchte eines Tages aus einer unerwarteten Ferne auf, als käme er aus einer längst vergangenen Zeit.
