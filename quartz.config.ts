@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "de-DE",
     baseUrl: "rezanoel.ir",
     ignorePatterns: ["private", "templates", "Templates", "Drafts", ".obsidian"],
     defaultDateType: "modified",
