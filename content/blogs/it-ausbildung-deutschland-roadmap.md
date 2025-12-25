@@ -62,7 +62,6 @@ reading_time: ≈ 12–15 min
 - [FAQ](#faq)
 - [Weiterführende Notizen (Zettelkasten)](#weiterführende-notizen-zettelkasten)
 - [Quellen & offizielle Links](#quellen--offizielle-links)
-- [SEO Bonus: Meta + Schema Snippets](#seo-bonus-meta--schema-snippets)
 
 ---
 
@@ -575,11 +574,7 @@ Meist wichtiger: Logik + strukturiertes Denken. Mathe hilft, ist aber selten der
 * [https://www.arbeitsagentur.de/bildung/ausbildung](https://www.arbeitsagentur.de/bildung/ausbildung)
 * [https://www.ihk.de](https://www.ihk.de)
 * [https://www.make-it-in-germany.com/de](https://www.make-it-in-germany.com/de)
-
-
-
-
-<script type="application/ld+json">
+<div style="display:none" id="seo-data">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -589,7 +584,7 @@ Meist wichtiger: Logik + strukturiertes Denken. Mathe hilft, ist aber selten der
       "name": "Brauche ich ein Studium, um in der IT in Deutschland zu starten?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Nein. Eine duale IT-Ausbildung ist ein anerkannter und praxisnaher Einstieg. Später sind Spezialisierung, Zertifikate oder ein Studium weiterhin möglich."
+        "text": "Nein. Eine duale IT-Ausbildung ist ein anerkannter und praxisnaher Einstieg."
       }
     },
     {
@@ -597,7 +592,7 @@ Meist wichtiger: Logik + strukturiertes Denken. Mathe hilft, ist aber selten der
       "name": "Welche Fachrichtung passt besser: Anwendungsentwicklung oder Systemintegration?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Anwendungsentwicklung passt oft, wenn du gern Software entwickelst. Systemintegration passt eher, wenn du Infrastruktur, Netzwerke und den stabilen Betrieb von Systemen magst."
+        "text": "Anwendungsentwicklung passt oft, wenn du gern Software entwickelst."
       }
     },
     {
@@ -605,9 +600,16 @@ Meist wichtiger: Logik + strukturiertes Denken. Mathe hilft, ist aber selten der
       "name": "Wie beweise ich Motivation in der Bewerbung?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mit 2–3 kleinen Projekten, sauberer Dokumentation (README) und der Fähigkeit, deinen Denkprozess im Gespräch verständlich zu erklären."
+        "text": "Mit 2-3 kleinen Projekten و Dokumentation."
       }
     }
   ]
 }
+</div>
+<script>
+  const schemaData = document.getElementById('seo-data').innerText;
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.text = schemaData;
+  document.head.appendChild(script);
 </script>
