@@ -37,7 +37,6 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-	/*{ Component.DesktopOnly(Component.Explorer({title: "Language: 🇩🇪 DE / 🇬🇧 EN", }))},*/
         { Component: Component.ReaderMode() },
       ],
     }),
