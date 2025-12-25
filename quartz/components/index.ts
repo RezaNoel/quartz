@@ -24,6 +24,8 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import DownloadButton from "./DownloadButton"
+import Analytics from "./Analytics"
+
 
 export {
   ArticleTitle,
@@ -52,4 +54,5 @@ export {
   Flex,
   ConditionalRender,
   DownloadButton,
+  Analytics,
 }
