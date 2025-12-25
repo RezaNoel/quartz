@@ -8,8 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/RezaNoel",
+	"Email":"mailto:rezatavangar112@gmail.com",
+	"Youtube":"https://www.youtube.com/@chibodeh",
+      "Discord Community": "https://discord.gg/K4sT5u6qgm",
     },
   }),
 }
@@ -35,6 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+	/*{ Component.DesktopOnly(Component.Explorer({title: "Language: 🇩🇪 DE / 🇬🇧 EN", }))},*/
         { Component: Component.ReaderMode() },
       ],
     }),

@@ -1,3 +1,2 @@
-content/Drafts/*
-content/Templates/*
-!content/Blogs/*
+content/drafts/*
+content/templates/*
