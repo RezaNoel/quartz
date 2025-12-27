@@ -1,19 +1,19 @@
 ---
 title: "Warum ein Python-Entwickler Obsidian braucht (2026): Wissensbasis, Projekte, Code-Snippets – von Reza Noel"
 description: "Reza Noel zeigt praxisnah, warum Obsidian für Python-Entwickler ein Gamechanger ist: Knowledge Management, Projekt- & Task-Workflow, Code-Snippets, Links/Embeds, Debugging-Journal, Dataview & Tasks – mit Beispielen und Templates."
-author: "Reza Noel"
-language: "de-DE"
-date: "2025-12-27"
-lastmod: "2025-12-27"
-slug: "warum-ein-python-entwickler-obsidian-braucht"
-canonical: "https://example.com/warum-ein-python-entwickler-obsidian-braucht"
-robots: "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+author: Reza Noel
+language: de-DE
+date: 2025-12-27
+lastmod: 2025-12-27
+slug: warum-ein-python-entwickler-obsidian-braucht
+canonical: https://rezanoel.ir/warum-ein-python-entwickler-obsidian-braucht
+robots: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
 keywords:
-  - "Obsidian für Python Entwickler"
-  - "Obsidian Wissensmanagement Programmierer"
-  - "Python Knowledge Base Obsidian"
-  - "Obsidian Tasks Dataview Workflow"
-  - "Zettelkasten Obsidian Entwickler"
+  - Obsidian für Python Entwickler
+  - Obsidian Wissensmanagement Programmierer
+  - Python Knowledge Base Obsidian
+  - Obsidian Tasks Dataview Workflow
+  - Zettelkasten Obsidian Entwickler
 tags:
   - python
   - obsidian
@@ -25,12 +25,16 @@ tags:
   - tasks
   - snippets
 aliases:
-  - "warum-obsidian-fuer-python"
-  - "python-entwickler-obsidian"
-zettel_id: "PY-OBS-WHY-2026-2025-12-27"
-status: "evergreen"
-audience: ["Python-Entwickler", "Junior Devs", "Azubis", "Quereinsteiger"]
-reading_time: "≈ 14–18 min"
+  - warum-obsidian-fuer-python
+  - python-entwickler-obsidian
+zettel_id: PY-OBS-WHY-2026-2025-12-27
+status: evergreen
+audience:
+  - Python-Entwickler
+  - Junior Devs
+  - Azubis
+  - Quereinsteiger
+reading_time: ≈ 14–18 min
 ---
 
 # Warum ein Python-Entwickler Obsidian braucht (2026)
