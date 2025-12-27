@@ -5,7 +5,7 @@ author: Reza Noel
 language: de-DE
 lang: de
 date: 2025-12-26
-lastmod: 2025-12-26
+lastmod: 2025-12-27
 slug: it-ausbildung-deutschland-roadmap
 canonical: https://rezanoel.ir/it-ausbildung-deutschland-roadmap
 robots: index, follow
@@ -36,13 +36,11 @@ audience:
 reading_time: ≈ 12–15 min
 ---
 
-# IT-Ausbildung in Deutschland: meine Roadmap zur Ausbildung  
-*Von **Reza Noel** • Stand: 26.12.2025*
+# IT-Ausbildung in Deutschland: Deine Roadmap zum Erfolg
+*Ein Leitfaden von **Reza Noel** • Letztes Update: 26.12.2025*
 
-> [!abstract] Zusammenfassung (TL;DR)
-> Eine IT-Ausbildung ist ein starker Einstieg in Deutschland, wenn du **klar wählst**, **Projekte zeigen kannst** und **Bewerbung + Sprache** ernst nimmst.  
-> In diesem Artikel bekommst du eine **Roadmap**, echte **Checklisten**, **Vor-/Nachteile**, typische **Herausforderungen** – und was nach der Ausbildung realistisch kommt.
-
+> [!abstract] Kurz & Knapp (TL;DR)
+> Die IT-Ausbildung ist das Rückgrat der deutschen Digitalwirtschaft. Wer **praxisناح (praxisnah)** lernt, ein **starkes Portfolio** aufbaut und die **Sprachbarriere** überwindet, hat exzellente Karrierechancen. Dieser Guide bietet dir eine strukturierte Roadmap vom ersten Projekt bis zum unterschriebenen Vertrag.
 ---
 
 ## Inhaltsverzeichnis
@@ -68,7 +66,7 @@ reading_time: ≈ 12–15 min
 ## Für wen ist dieser Artikel?
 > [!note]
 > Dieser Guide ist für dich, wenn du:
-> - **in die IT rein willst**, aber keinen Umweg über 3–4 Jahre Studium willst,
+> - **in die IT einsteigen möchtest**, aber keinen Umweg über 3–4 Jahre Studium willst,
 > - einen **klaren Plan** für Bewerbung/Portfolio brauchst,
 > - wissen willst, wie der **Alltag** in Betrieb + Berufsschule wirklich wirkt,
 > - die **Pros & Cons** ehrlich sehen willst.
@@ -159,7 +157,7 @@ Mehr Technik/Hardware/Installation – oft näher an Telekommunikation.
 ### Mini-Vergleich (schnell entscheiden)
 | Frage | AE | SI | Daten/Prozess | Vernetzung |
 |---|---:|---:|---:|---:|
-| Mehr Code? | ✅✅✅ | ✅ | ✅✅ | ✅ |
+| Hoher Code-Anteil? | ✅✅✅ | ✅ | ✅✅ | ✅ |
 | Mehr Infrastruktur/Netz? | ✅ | ✅✅✅ | ✅ | ✅✅✅ |
 | Mehr Analyse/Prozesse? | ✅ | ✅ | ✅✅✅ | ✅✅ |
 | Mehr „Betrieb am Laufen halten“? | ✅ | ✅✅✅ | ✅ | ✅✅ |
@@ -175,7 +173,7 @@ Ohne Deutsch wird’s zäh. Nicht, weil du dumm bist – sondern weil Alltag + S
 
 ➡️ Notiz dazu: [[Deutsch-B1-B2-fuer-Ausbildung]]
 
-### Schulische Basics
+### Schulische Voraussetzungen
 - Logik/Mathe-Grundlagen
 - Englisch (Docs, Tools, Begriffe)
 - saubere Lernroutine
@@ -183,7 +181,7 @@ Ohne Deutsch wird’s zäh. Nicht, weil du dumm bist – sondern weil Alltag + S
 ### Persönliche Eigenschaften, die Betriebe wirklich merken
 - Zuverlässigkeit (pünktlich, sauber, verbindlich)
 - Teamfähigkeit
-- Frustrationstoleranz (IT ist manchmal einfach nervig)
+- Frustrationstoleranz (IT kann frustrierend sein)
 - klare Kommunikation („So bin ich vorgegangen…“)
 
 ➡️ Notiz: [[Softskills-in-der-IT-Ausbildung]]
@@ -376,6 +374,9 @@ Die Vergütung hängt stark von Region, Branche, Größe und Tarif ab.
 >
 > In tarifgebundenen/großen Betrieben kann es spürbar höher sein.
 > *Sieh diese Zahlen als Rahmen, nicht als Versprechen.*
+
+> [!warning]
+> Bitte beachte, dass dies Brutto-Beträge sind. Nach Abzug von Sozialversicherungen bleibt dein Netto-Gehalt übrig.
 
 ➡️ [[Ausbildungsgehalt-Realitaet]] • [[Tarifvertrag-Check]]
 
@@ -600,7 +601,7 @@ Meist wichtiger: Logik + strukturiertes Denken. Mathe hilft, ist aber selten der
       "name": "Wie beweise ich Motivation in der Bewerbung?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Mit 2-3 kleinen Projekten و Dokumentation."
+        "text": "Mit 2-3 kleinen Projekten und Dokumentation."
       }
     }
   ]
