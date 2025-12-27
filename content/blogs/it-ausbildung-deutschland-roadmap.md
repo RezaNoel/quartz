@@ -37,7 +37,7 @@ reading_time: ≈ 12–15 min
 ---
 
 # IT-Ausbildung in Deutschland: Deine Roadmap zum Erfolg
-*Ein Leitfaden von **Reza Noel** • Letztes Update: 26.12.2025*
+*Ein Leitfaden von **Reza Noel** • Stand: 26.12.2025 • Letztes Update: 27.12.2025*
 
 > [!abstract] Kurz & Knapp (TL;DR)
 > Die IT-Ausbildung ist das Rückgrat der deutschen Digitalwirtschaft. Wer **praxisناح (praxisnah)** lernt, ein **starkes Portfolio** aufbaut und die **Sprachbarriere** überwindet, hat exzellente Karrierechancen. Dieser Guide bietet dir eine strukturierte Roadmap vom ersten Projekt bis zum unterschriebenen Vertrag.
