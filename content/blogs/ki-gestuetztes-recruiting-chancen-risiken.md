@@ -546,9 +546,6 @@ Ja – zum **Verbessern**. Nein – zum **Erfinden**.
 > * [[Digital Garden]]
 > * [[Work Samples statt Bauchgefühl]]
 
----
-
-## Fußnoten
 
 [^aiact]: EU AI Act Service Desk – Timeline (Stufen: 02.02.2025 / 02.08.2025 / 02.08.2026 / 02.08.2027).
 
