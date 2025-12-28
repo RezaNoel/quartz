@@ -4,7 +4,7 @@ description: "Deutschland/EU (Stand Ende 2025): Automated Screening, Semantic Se
 slug: ki-gestuetztes-recruiting-chancen-risiken-sieb-kein-richter
 date: 2025-12-28
 lastmod: 2025-12-28
-author: "Reza Noel"
+author: Reza Noel
 tags:
   - KI-gestütztes-Recruiting
   - Bias-in-Algorithmen
@@ -27,7 +27,7 @@ keywords:
   - DSGVO Artikel 22
   - AI Video Interviews
   - Digital Garden
-canonical: "https://rezanoel.ir/ki-gestuetztes-recruiting-chancen-risiken-sieb-kein-richter"
+canonical: https://rezanoel.ir/ki-gestuetztes-recruiting-chancen-risiken
 status: evergreen
 zettel_id: REZA-HR-AI-2025-12-28
 ---
