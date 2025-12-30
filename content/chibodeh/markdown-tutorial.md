@@ -13,7 +13,7 @@ lang: fa
 language: fa-IR
 slug: markdown-tutorial
 date: 2025-12-26
-lastmod: 2025-12-26
+lastmod: 2025-12-30
 status: evergreen
 zettel_id: markdown-tutorial-youtube-chibodeh
 ---
