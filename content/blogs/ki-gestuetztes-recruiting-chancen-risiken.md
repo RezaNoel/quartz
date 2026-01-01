@@ -3,7 +3,7 @@ title: "KI-gestütztes Recruiting: Chancen & Risiken – KI ist ein Sieb, kein R
 description: "Deutschland/EU (Stand Ende 2025): Automated Screening, Semantic Search, Bias in Algorithmen, ATS-Optimierung, AI Video Interviews, EU AI Act & DSGVO – plus: Digital Garden als Beweisraum für echte Kompetenz."
 slug: ki-gestuetztes-recruiting-chancen-risiken-sieb-kein-richter
 date: 2025-12-28
-lastmod: 2025-12-28
+lastmod: 2026-01-01
 author: Reza Noel
 tags:
   - KI-gestütztes-Recruiting
@@ -31,6 +31,7 @@ canonical: https://rezanoel.ir/blogs/ki-gestuetztes-recruiting-chancen-risiken
 status: evergreen
 zettel_id: REZA-HR-AI-2025-12-28
 ---
+*Von **Reza Noel** • Stand: 28.12.2025 • Letztes Update: 01.01.2026*
 
 > [!summary] Kurz & Knapp (TL;DR)
 > - **KI-gestütztes Recruiting** ist heute oft ein *Vorfilter*, kein finales Urteil.  

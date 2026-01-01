@@ -6,7 +6,7 @@ author: Reza Noel
 language: de
 lang: de
 date: 2025-12-27
-lastmod: 2025-12-27
+lastmod: 2026-01-01
 tags:
   - vpn
   - security
@@ -31,8 +31,7 @@ keywords:
   - Remote-Access VPN
   - MTU MSS NAT-T
 ---
-
-# IPsec, OpenVPN oder WireGuard? Ein Praxis-Guide von Reza Noel
+*Von **Reza Noel** • Stand: 27.12.2025 • Letztes Update: 01.01.2026*
 
 > [!abstract] Kurz & Knapp  (TL;DR)
 > Wenn du **klassische Site-to-Site-Tunnels** mit Hersteller-Support brauchst: **IPsec/IKEv2** ist oft „die Standardsprache“ zwischen Firewalls/Cloud-Gateways.  

@@ -4,7 +4,7 @@ description: "Reza Noel zeigt praxisnah, warum Obsidian für Python-Entwickler e
 author: Reza Noel
 language: de-DE
 date: 2025-12-27
-lastmod: 2025-12-27
+lastmod: 2026-01-01
 slug: warum-ein-python-entwickler-obsidian-braucht
 canonical: https://rezanoel.ir/blogs/warum-ein-python-entwickler-obsidian-braucht
 robots: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
@@ -37,8 +37,7 @@ audience:
 reading_time: ≈ 14–18 min
 ---
 
-# Warum ein Python-Entwickler Obsidian braucht (2026)
-*Von **Reza Noel** • Stand: 27.12.2025*
+*Von **Reza Noel** • Stand: 27.12.2025 • Letztes Update: 01.01.2026*
 
 Als Python-Entwickler verbringt man die meiste Zeit im Terminal oder in der IDE. Doch im Jahr 2026 geht es nicht mehr nur um das Schreiben von Code, sondern um das Managen von Komplexität. Obsidian ist hierbei mehr als nur eine Notiz-App – es ist das neuronale Netzwerk deines Workflows.
 
