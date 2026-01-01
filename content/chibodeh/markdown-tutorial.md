@@ -17,15 +17,13 @@ lastmod: 2025-12-30
 status: evergreen
 zettel_id: markdown-tutorial-youtube-chibodeh
 ---
-# Markdown | مارک داون
-
-> [!info] خلاصه
-> توی این مقاله درباره مارک داون صحبت شده که چی هست و چه کمکی به ما میکنه و چطور میتونیم یک فایل مارک داون کامل و کاربردی داشته باشیم، قدم به قدم تمامی قابلیت های مارک دان آموزش داده شده
+> [!summary] خلاصه
+>> توی این مقاله درباره مارک داون صحبت شده که چی هست و چه کمکی به ما میکنه و چطور میتونیم یک فایل مارک داون کامل و کاربردی داشته باشیم، قدم به قدم تمامی قابلیت های مارک دان آموزش داده شده
 
 > [!tip] Youtube Chibode
 ><div style="position:relative; width:100%; padding-top:56.25%;"><iframe    src="https://www.youtube.com/embed/HeO3sTNuIq8"  style="position:absolute; top:0; left:0; width:100%; height:100%;"    frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"    allowfullscreen>  </iframe></div>
 
-
+---
 ## 1) فایل Markdown دقیقاً چیه؟
 
 مارک داون یک فرمت متنی ساده‌ست که با چند علامت خیلی سبک، متن رو **ساختارمند** می‌کنه (تیتر، لیست، لینک، جدول، کد و …). خروجی‌اش هم خواناست هم قابل تبدیل به HTML/PDF و… . توی Obsidian چون همه‌چیز فایل متنیه، خیلی سریع و مرتب کار می‌کنی.
