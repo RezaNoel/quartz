@@ -6,7 +6,7 @@ language: de-DE
 date: 2025-12-27
 lastmod: 2025-12-27
 slug: warum-ein-python-entwickler-obsidian-braucht
-canonical: https://rezanoel.ir/warum-ein-python-entwickler-obsidian-braucht
+canonical: https://rezanoel.ir/blogs/warum-ein-python-entwickler-obsidian-braucht
 robots: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
 keywords:
   - Obsidian für Python Entwickler

@@ -27,7 +27,7 @@ keywords:
   - DSGVO Artikel 22
   - AI Video Interviews
   - Digital Garden
-canonical: https://rezanoel.ir/ki-gestuetztes-recruiting-chancen-risiken
+canonical: https://rezanoel.ir/blogs/ki-gestuetztes-recruiting-chancen-risiken
 status: evergreen
 zettel_id: REZA-HR-AI-2025-12-28
 ---

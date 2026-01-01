@@ -7,7 +7,7 @@ lang: de
 date: 2025-12-26
 lastmod: 2025-12-27
 slug: it-ausbildung-deutschland-roadmap
-canonical: https://rezanoel.ir/it-ausbildung-deutschland-roadmap
+canonical: https://rezanoel.ir/blogs/it-ausbildung-deutschland-roadmap
 robots: index, follow
 keywords:
   - IT Ausbildung Deutschland

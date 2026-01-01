@@ -21,7 +21,7 @@ tags:
 aliases:
   - VPN-Protokolle Vergleich
   - IPsec vs OpenVPN vs WireGuard
-canonical: https://rezanoel.ir/vpn-protokolle-vergleich-ipsec-openvpn-wireguard
+canonical: https://rezanoel.ir/blogs/vpn-protokolle-vergleich-ipsec-openvpn-wireguard
 robots: index, follow
 keywords:
   - IPsec IKEv2
