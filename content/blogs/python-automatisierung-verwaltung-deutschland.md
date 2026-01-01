@@ -38,7 +38,7 @@ audience:
   - Digitalisierung
 reading_time: ≈ 16–22 min
 ---
-*Von **Reza Noel** • Stand: 01.01.2026
+*Von **Reza Noel** • Stand: 01.01.2026*
 
 > [!abstract] Kurz & Knapp (TL;DR)
 > **Python lohnt sich im Backoffice**, wenn deine Firma regelmäßig dieselben Dinge wiederholt: Rechnungen prüfen, Daten übertragen, Mails sortieren, Dokumente erzeugen, Reports bauen.  
@@ -585,15 +585,35 @@ Mein Vorschlag: Logs **prozessbezogen**, nicht personenbezogen (wo möglich), un
 
 ## FAQ
 
+<details> <summary><strong>Warum Python statt Low-Code/No-Code?</strong></summary>
+
 Python ist ideal, wenn du stabile Integrationen, Tests, Versionierung, Logging und sauberes Deployment willst. Low-Code ist stark für schnelle Flows – aber bei komplexer Logik und Audits wird Code oft sauberer.
+
+</details>
+
+<details> <summary><strong>Welcher Prozess lohnt sich als Erstes?</strong></summary>
 
 Aus meiner Sicht (Reza Noel): Eingangsrechnungen/E-Rechnung oder HR-Offboarding. Hoher Nutzen, klare Regeln, echte Risiken bei Fehlern.
 
+</details>
+
+<details> <summary><strong>Wie messe ich den Erfolg (KPIs)?</strong></summary>
+
 Durchlaufzeit (Lead Time), Fehlerquote, „Touchless Rate“ (wie viel läuft ohne manuelles Eingreifen), und Payback-Zeit.
+
+</details>
+
+<details> <summary><strong>Was tun, wenn ein System keine API hat?</strong></summary>
 
 RPA nur als letzte Meile einsetzen, UI-Änderungen monitoren, Wartungsbudget einplanen, und wo möglich APIs bevorzugen.
 
-Sehr grob: 20k–60k MVP, 60k–180k Rollout für 1–2 Kernprozesse. Das schwankt stark je nach Systemlandschaft, Datenqualität und Compliance-Anforderungen.
+</details>
+
+<details> <summary><strong>Mit welchem Budget muss ich rechnen?</strong></summary>
+
+Sehr grob: 20k–60k € für den MVP, 60k–180k € für den Rollout von 1–2 Kernprozessen. Das schwankt stark je nach Systemlandschaft, Datenqualität und Compliance-Anforderungen.
+
+</details>
 
 ---
 
