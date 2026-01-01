@@ -26,7 +26,7 @@ keywords:
   - e-rechnung xrechnung zugferd python
   - rpa python uipath power automate
   - dsgvo konforme automatisierung
-canonical: https://rezanoel.ir/blogs//python-automatisierung-verwaltung-deutschland
+canonical: https://rezanoel.ir/blogs/python-automatisierung-verwaltung-deutschland
 robots: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
 zettel_id: PY-AUTO-DE-ADMIN-2026-01-01
 status: evergreen
