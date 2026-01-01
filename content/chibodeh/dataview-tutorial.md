@@ -25,7 +25,7 @@ zettel_id: markdown-tutorial-youtube-chibodeh
 > در این نوت یاد می‌گیری: Properties/YAML، Inline Fields، انواع Query (LIST/TABLE/TASK/CALENDAR)، سینتکس اصلی (FROM/WHERE/SORT/LIMIT)، توابع جذاب، و در آخر یک پروژه واقعی: **سیستم مدیریت کتاب** از صفر تا صد.
 
 > [!tip] Youtube Chibode
->هنوز آپلود نشده..!
+><div style="position:relative; width:100%; padding-top:56.25%;"><iframe    src="https://www.youtube.com/embed/OOG5Roex9Yc"  style="position:absolute; top:0; left:0; width:100%; height:100%;"    frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"    allowfullscreen>  </iframe></div>
 
 ---
 
