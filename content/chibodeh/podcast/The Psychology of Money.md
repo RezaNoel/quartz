@@ -1,7 +1,7 @@
 ---
 title: The Psychology of Money
 date: 2026-02-27
-draft: false
+draft: true
 tags:
   - blog
   - podcast
